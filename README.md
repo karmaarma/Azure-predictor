@@ -1,11 +1,9 @@
-# Azure-BloxFlip-predictor
-Mines
+So welcome to Azure, its for free ussers who dont wanna spend their money/rbx
 
-Towers
+Some antivirus will delete or it won't let it open ,Just turn off antivirus to bypass any issues
 
-Crash
-
-Bombs
+What we have in app
+Towers/Mines/Crash
 
 ![image](https://github.com/karmaarma/Azure-BloxFlip-predictor/assets/104941283/cd017812-b8c9-4109-ab38-7920a8c1980e)
 

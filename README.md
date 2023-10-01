@@ -1,4 +1,4 @@
-So welcome to Azure, its for free ussers who dont wanna spend their money/rbx
+Welcome to Azure! its for free users who dont wanna spend their money/rbx
 
 Some antivirus will delete or it won't let it open ,Just turn off antivirus to bypass any issues
 

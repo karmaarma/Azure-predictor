@@ -1,5 +1,5 @@
 # Azure-BloxFlip-predictor
 Mines
 Towers
-Safe
+Crash
 Bombs

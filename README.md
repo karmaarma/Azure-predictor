@@ -12,9 +12,5 @@ So why settle for inaccurate predictions when you can have the best? Purchase Az
 
 ![image](https://github.com/karmaarma/Azure-BloxFlip-predictor/assets/104941283/cd017812-b8c9-4109-ab38-7920a8c1980e)
 
-
-![68747470733a2f2f692e696d6775722e636f6d2f664f396c624d692e706e67](https://github.com/karmaarma/Azure-BloxFlip-predictor/assets/104941283/36bc52aa-2164-492e-b27f-0a656beb864b)
-
-
 https://github.com/karmaarma/Azure-BloxFlip-predictor/assets/104941283/578a4bed-1ada-4468-b778-494da8f1426e
 

@@ -1,15 +1,42 @@
-Are you tired of inaccurate predictions? Do you want to invest your time and money wisely? Look no further than Azure - The ultimate predictor for Bloxflip, Rblxwild, and Bloxmoon.
+FEATURES-
+MaxWeapon
 
-With its high level of accuracy, Azure is the go-to choice for anyone looking to make informed decisions. Whether you're an experienced gambler or a newcomer, Azure can help you make the most out of Bloxflip, Rblxwild, Bloxmoon.
+NoWanted
 
-But what sets Azure apart from the competition? For one, Azure is backed by a robust database. This means that you can rely on Azure to provide you with the most accurate predictions possible. For Two, Azure has a high accuracy of 80% To 99.8%. 3. Azure Updates every single day. 4. 24/7 Hosting, 24/7 Support ready to help you!
+GodMode
 
-At Azure, we believe in quality over quantity. That's why we prioritize accuracy and reliability above all else. And while other predictors may cost a fortune, Azure is incredibly affordable. We believe that everyone should have access to accurate predictions, regardless of their budget.
+Trigger
 
-And with 24/7 availability and unbeatable performance and accuracy, Azure truly is the best. Our dedicated team of experts is always working to improve Azure's predictions and ensure that our customers get the best possible predictions.
+RpLoop
 
-So why settle for inaccurate predictions when you can have the best? Purchase Azure and start making informed decisions with ease. With Azure, the future is in your hands. 🔮
+NoClip
 
-![image](https://github.com/karmaarma/Azure-BloxFlip-predictor/assets/104941283/cd017812-b8c9-4109-ab38-7920a8c1980e)
+Teleport to Waypoint
 
-https://github.com/karmaarma/Azure-BloxFlip-predictor/assets/104941283/c86f95c4-061c-4da5-b952-a28b5b8285cf
+Boost Vehicle
+
+Boost Player
+
+Suicide
+
+USAGE-
+If you get dll errors, install vc_redist.x64
+
+GTA needs to be in "Fullscreen Windowed" or "Windowed" mode
+
+Keys can be changed in settings.ini
+
+Key	Function
+
+ALT	Toggle Menu
+
+Mouse	Toggle Features
+
+NUM0	Teleport to Waypoint
+
+NUM1	Boost Player
+
+NUM2	Boost Vehicle
+
+Space	Change Fly Speed
+

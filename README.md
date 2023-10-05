@@ -21,6 +21,7 @@ Boost Player
 Suicide
 
 USAGE-
+
 If you get dll errors, install vc_redist.x64
 
 GTA needs to be in "Fullscreen Windowed" or "Windowed" mode
